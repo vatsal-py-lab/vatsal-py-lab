@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-py-lab&show_icons=true&theme=highcontrast&locale=en" alt="vatsal-py-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-py-lab&theme=highcontrast" alt="vatsal-py-lab" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-py-lab&theme=highcontrast" alt="vatsal-py-lab" /></p>
