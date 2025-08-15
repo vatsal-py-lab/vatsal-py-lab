@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I am Vatsal 👋</h1>
+<h1 align="center">Hello, I am Vatsal 👋</h1>
 <h3>Professionally, I am currently engaged as a Project Analyst at BNP Paribas.</h3> 
 <h3>I’m a beginner Python developer with a strong interest in data analysis, automation, and building practical solutions that make work easier and smarter.</h3>
  
