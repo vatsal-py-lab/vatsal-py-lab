@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-py-lab&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-py-lab" /> </p>
 
-- 🔭 I’m currently working on [Paws of Justice: Twitter Sentiment Analysis of Public Reaction to Supreme Court's Stray-Dog Case Verdict](https://github.com/vatsal-py-lab/sentiment-analysis)
+- 🔭 I’m currently working on [Pawlic Opinion: Twitter Reaction to Supreme Court's Stray-Dog Case Verdict](https://github.com/vatsal-py-lab/sentiment-analysis)
 
 - 🌱 I’m currently learning **Google BigQuery (Sandbox) and CI/CD pipeline using Jetkins, Docker, and Kubernetes**
 
