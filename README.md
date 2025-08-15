@@ -4,15 +4,17 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-py-lab&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-py-lab" /> </p>
 
-- 🔭 I’m currently working on [Pawlic Opinion: Twitter Reaction to Supreme Court's Stray-Dog Case Verdict](https://github.com/vatsal-py-lab/sentiment-analysis)
+- 🔭 *Currently working:* [Pawlic Opinion: Twitter Reaction to Supreme Court's Stray-Dog Case Verdict](https://github.com/vatsal-py-lab/sentiment-analysis)
 
-- 🌱 I’m currently learning **Google BigQuery (Sandbox) and CI/CD pipeline using Jetkins, Docker, and Kubernetes**
+- 🌱 *Currently learning:* **Google BigQuery (Sandbox) | CI/CD pipeline using Jetkins, Docker, and Kubernetes**  
+
+- 🎯 *Goal for this year:*  Build a data portfolio with 5+ real-world projects 
 
 - 👨‍💻 All of my projects are available at [Github Portfolio](https://github.com/vatsal-py-lab)
 
-- 📫 You can mail me at **vatsalkpatel.work@gmail.com**
+- 📫 *Reach out for collaboration:* **vatsalkpatel.work@gmail.com**
 
-- ⚡ Fun fact **I sometimes spend more time cleaning datasets than I do cleaning my desk**
+- ⚡ *Fun fact:* **I sometimes spend more time cleaning datasets than I do cleaning my desk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
