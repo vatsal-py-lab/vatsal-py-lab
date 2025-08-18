@@ -8,7 +8,7 @@
 
 - 🌱 *Currently learning:* **Google BigQuery (Sandbox) | CI/CD pipeline using Jetkins, Docker, and Kubernetes**  
 
-- 🎯 *Goal for this year:*  Build a data portfolio with 5+ real-world projects 
+- 🎯 *Goal for 2026:*  Build a data portfolio with 5+ real-world projects 
 
 - 👨‍💻 All of my projects are available at [Github Portfolio](https://github.com/vatsal-py-lab)
 
