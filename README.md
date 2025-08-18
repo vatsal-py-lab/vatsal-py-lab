@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Vatsal 👋</h1>
 <h3>Professionally, I am currently engaged as a Project Analyst at BNP Paribas.</h3> 
-<h3>I’m a beginner Python developer with a strong interest in data analysis, automation, and building practical solutions that make work easier and smarter.</h3>
+<h3>I’m a Python developer with a strong interest and hands-on experience in data analysis, automation, and building practical solutions that make work easier and smarter.</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-py-lab&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-py-lab" /> </p>
 
