@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-py-lab&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-py-lab" /> </p>
 
-- 🔭 *Currently working:* [Pawlic Opinion: Twitter Reaction to Supreme Court's Stray-Dog Case Verdict](https://github.com/vatsal-py-lab/sentiment-analysis)
+- 🔭 *Currently working:* [F1 Data Lab: Exploring Race Data and Performance Analytics](https://github.com/vatsal-py-lab/f1-data-lab)
 
 - 🌱 *Currently learning:* **Google BigQuery (Sandbox) | CI/CD pipeline using Jetkins, Docker, and Kubernetes**  
 
