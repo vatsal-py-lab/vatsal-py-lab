@@ -12,29 +12,56 @@ I’m a Business Analyst by education with a strong interest in building automat
 
 ## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/><br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/><br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60"/><br>Matplotlib
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/power-bi.png" height="60"/><br>Power BI
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/ms-excel.png" height="60"/><br>Excel
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" height="60"/><br>Tableau
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 🚀 Project Highlights
 
-### 🔹 Natural Gas Price Forecasting  
-📌 *Time Series + Forecasting + Energy Markets*  
+### 🔹 Transaction Fraud Detection System  
+📌 *Uses standard deviation-based anomaly detection to flag suspicious transaction behavior*  
+🔗 https://github.com/vatsal-py-lab/transaction-fraud-detection-system
+
+### 🔹 F1 Performance Analytics  
+📌 *A comprehensive Formula 1 data project combining analytics and visualizations*  
+🔗 https://github.com/vatsal-py-lab/f1-performance-analytics
+
+### 🔹 Natural Gas Storage Forecast  
+📌 *Forecasting natural gas prices using SARIMA to capture seasonal trends and estimate past/future purchase prices with one-year extrapolation*  
 🔗 https://github.com/vatsal-py-lab/natural-gas-storage-forecast
 
-### 🔹 Automated Data Cleaning Scripts  
-📌 *Python automation for preprocessing and validation*  
-🔗 (Add when ready or create a placeholder)
-
-### 🔹 Dashboarding & Analytics Projects  
-📌 *Insights and reporting using Power BI / Python*  
-🔗 (Link relevant repo)
 
 ## 🔭 Currently Working On
 - **Price Forecasting for Natural Gas Storage**  
