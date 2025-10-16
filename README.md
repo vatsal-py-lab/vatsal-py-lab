@@ -1,20 +1,22 @@
-<h1 align="center">Hello, I'm Vatsal 👋</h1>
-<h3 align="center">A passionate business analyst from Mumbai, India</h3>
-
+<h1 align="center">Hello, I am Vatsal 👋</h1>
+<h3>Professionally, I am currently engaged as a Project Analyst at BNP Paribas.</h3> 
+<h3>I’m a Python developer with a hands-on experience and interest in data analysis, automation, and building practical solutions that make work easier and smarter.</h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-py-lab&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-py-lab" /> </p>
 
-- 🔭 I’m currently working on [Price Forecasting for Natural Gas Storage](https://github.com/vatsal-py-lab/natural-gas-storage-forecast)
+- 🔭 *Currently working:* [Price Forecasting for Natural Gas Storage](https://github.com/vatsal-py-lab/natural-gas-storage-forecast)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vatsal-py-lab](https://github.com/vatsal-py-lab)
+- 🌱 *Currently learning:*  
 
-- 📫 How to reach me **vatsalkpatel.work@gmail.com**
+- 🎯 *Goal for 2026:*  Build a data portfolio with 5+ real-world projects 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heyvatsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyvatsy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//in/vatsalkpatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/vatsalkpatel/" height="30" width="40" /></a>
-</p>
+- 👨‍💻 All of my projects are available at [Github Portfolio](https://github.com/vatsal-py-lab)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📫 *Reach out for collaboration:* **vatsalkpatel.work@gmail.com**
 
+- ⚡ *Fun fact:* **I sometimes spend more time cleaning datasets than I do cleaning my desk**
+
+## 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-py-lab&show_icons=true&theme=highcontrast&locale=en" alt="vatsal-py-lab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-py-lab&theme=highcontrast" alt="vatsal-py-lab" /></p>
